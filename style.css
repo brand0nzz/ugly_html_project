@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h1{
+    background-color: rgb(27, 40, 218);
+    color: yellow;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+div{
+    align-items: center;
+    color: white;
+}
+
+footer{
+    color: white;
+}
